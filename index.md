@@ -1,7 +1,7 @@
 ---
 layout: page
 title: John Lee's Hacker BLOG ACTION
-tagline: Supporting tagline
+tagline: The entry
 ---
 {% include JB/setup %}
 
@@ -9,17 +9,17 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## ALL ABOUT ME
 
-In `_config.yml` remember to specify your own data:
+I will still need to do some custom config in the '_config.yml' file but... thats for another day
     
-    title : My Blog =)
+    title : The pillar of fire
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : John Lee Super Hacker
+      email : Done_Deal@donedeal.com
+      github : TheExodus
+      twitter : None
 
 The theme should reference these variables whenever needed.
     
