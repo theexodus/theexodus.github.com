@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: John Lee's Hacker BLOG ACTION
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
