@@ -11,7 +11,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ## ALL ABOUT ME
 
-I will still need to do some custom config in the '_config.yml' file but... thats for another day
+I will still need to understand custom config in the '_config.yml' file but... thats for another day
     
     title : The pillar of fire
     
@@ -19,16 +19,11 @@ I will still need to do some custom config in the '_config.yml' file but... that
       name : John Lee Super Hacker
       email : Done_Deal@donedeal.com
       github : TheExodus
-      twitter : None
+
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+## Thus begins the blog posts...
 
 Here's a sample "posts list".
 
@@ -40,7 +35,6 @@ Here's a sample "posts list".
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+To create my own theme or not to... lets try it.
 
 
