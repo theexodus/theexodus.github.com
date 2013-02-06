@@ -2,7 +2,6 @@
 body {
     height: 100%;
     width: 100%;
-background-image:url(../_site/assets/themes/hacking-in-the-dark/css/pillaroffire.jpg)
 }
 
 #container {
