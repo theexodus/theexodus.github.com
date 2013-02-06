@@ -1,4 +1,4 @@
-YUI().use('anim', function (Y) {
+YUI().use('anim','dd-drag', function (Y) {
 
     function animSlideX(selector, direction, xDist, duration) {
 	var node = Y.one(selector);
