@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : MY AWESOME HACKER BLOG 
+title : MY AWESOME HACKER BLOGS 
 tagline: Site Tagline
 author :
   name : Johnius Leeius

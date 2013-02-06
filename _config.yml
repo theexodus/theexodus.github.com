@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : MY AWESOME HACKER BLOGS 
-tagline: Site Tagline
+tagline: Site Tagline yes
 author :
   name : Johnius Leeius
   email : supremehacker@supremehacker.com
